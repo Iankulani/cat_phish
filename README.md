@@ -19,3 +19,6 @@ python3 cat_phish.py
 ```
 
 # Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/cat_phish&type=Date)](https://star-history.com/#Iankulani/cat_phish&Date)
